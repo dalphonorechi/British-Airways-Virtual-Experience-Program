@@ -13,7 +13,9 @@ Once the dataset was scrapped, data cleaning was performed in order to prepare t
 
 #### 3. Present insights.
 
-Finally, I summarised my findings within a single [powerpoint slide](https://github.com/dalphonorechi/data-science-portfolio/British-Airways-Virtual-Experience-Program/blob/main/customer_review_analysis.pptx). 
+Finally, I summarised my findings within a single [powerpoint slide](https://github.com/dalphonorechi/British-Airways-Virtual-Experience-Program/blob/main/customer_review_analysis.pptx). 
+
+![Review Analysis](reviews_analysis.JPG)
 
 
 ## Task 2 : Predicting Customer Buying Behavior.
@@ -28,6 +30,8 @@ I trained a machine learning model to be able to predict the target outcome, whi
 
 #### 3.Evaluate model and present findings.
 
-After training the model, I evaluated how well it performed by conducting cross-validation and outputting appropriate evaluation metrics. Furthermore, I created a visualisation to interpret how each variable contributed to the model. Finally, I summarised my findings in a single [slide](https://github.com/dalphonorechi/data-science-portfolio/British-Airways-Virtual-Experience-Program/blob/main/customer_buying_behavior.pptx).
+After training the model, I evaluated how well it performed by conducting cross-validation and outputting appropriate evaluation metrics. Furthermore, I created a visualisation to interpret how each variable contributed to the model. Finally, I summarised my findings in a single [slide](https://github.com/dalphonorechi/British-Airways-Virtual-Experience-Program/blob/main/customer_buying_behavior.pptx).
+
+![Review Analysis](buying_behavior.JPG)
 
 
